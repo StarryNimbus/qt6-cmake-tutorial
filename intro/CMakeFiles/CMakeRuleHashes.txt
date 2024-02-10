@@ -1,0 +1,9 @@
+# Hashes of file build rules.
+c5b3d848c7f72439e73759e8251b4321 src/app/.rcc/qrc_helloworld.cpp
+557bd70d7f0f4cd9a076f1b05ed3cb76 src/app/.rcc/qrc_helloworld_translations.cpp
+9bc76edca3c51c758a431b09d629cb3f src/app/CMakeFiles/helloworld_autogen
+94613c72719691246ed3b91d1b4961aa src/app/CMakeFiles/helloworld_lrelease
+ee464dbd39d8606e332314a118ac66d5 src/app/CMakeFiles/helloworld_lupdate
+5b47a87a3a682d279e1ee84ac35c5176 src/app/helloworld_fr.qm
+a911a42234fa3d86378f95ce560be73c src/app/helloworld_xx.qm
+00c25adde7e793087488198d8c977e53 src/businesslogic/CMakeFiles/businesslogic_autogen

@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/images">
+    <file alias="logo.png">/home/alvin/Documents/qt6-cmake-tutorial/intro/src/app/logo.png</file>
+    <file alias="splashscreen.png">/home/alvin/Documents/qt6-cmake-tutorial/intro/src/app/splashscreen.png</file>
+  </qresource>
+</RCC>
+

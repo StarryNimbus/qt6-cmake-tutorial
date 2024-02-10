@@ -1,0 +1,14 @@
+/home/alvin/Documents/qt6-cmake-tutorial/intro/CMakeFiles/edit_cache.dir
+/home/alvin/Documents/qt6-cmake-tutorial/intro/CMakeFiles/rebuild_cache.dir
+/home/alvin/Documents/qt6-cmake-tutorial/intro/src/app/CMakeFiles/helloworld.dir
+/home/alvin/Documents/qt6-cmake-tutorial/intro/src/app/CMakeFiles/helloworld_lupdate.dir
+/home/alvin/Documents/qt6-cmake-tutorial/intro/src/app/CMakeFiles/update_translations.dir
+/home/alvin/Documents/qt6-cmake-tutorial/intro/src/app/CMakeFiles/helloworld_lrelease.dir
+/home/alvin/Documents/qt6-cmake-tutorial/intro/src/app/CMakeFiles/release_translations.dir
+/home/alvin/Documents/qt6-cmake-tutorial/intro/src/app/CMakeFiles/edit_cache.dir
+/home/alvin/Documents/qt6-cmake-tutorial/intro/src/app/CMakeFiles/rebuild_cache.dir
+/home/alvin/Documents/qt6-cmake-tutorial/intro/src/app/CMakeFiles/helloworld_autogen.dir
+/home/alvin/Documents/qt6-cmake-tutorial/intro/src/businesslogic/CMakeFiles/businesslogic.dir
+/home/alvin/Documents/qt6-cmake-tutorial/intro/src/businesslogic/CMakeFiles/edit_cache.dir
+/home/alvin/Documents/qt6-cmake-tutorial/intro/src/businesslogic/CMakeFiles/rebuild_cache.dir
+/home/alvin/Documents/qt6-cmake-tutorial/intro/src/businesslogic/CMakeFiles/businesslogic_autogen.dir

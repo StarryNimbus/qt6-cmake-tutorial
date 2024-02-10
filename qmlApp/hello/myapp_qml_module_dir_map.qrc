@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/hello">/home/alvin/Documents/qt6-cmake-tutorial/qmlApp/hello</file>
+
+  </qresource>
+</RCC>

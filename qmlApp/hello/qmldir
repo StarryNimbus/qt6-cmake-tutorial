@@ -1,0 +1,5 @@
+module hello
+typeinfo myapp.qmltypes
+prefer :/qt/qml/hello/
+FramedImage 254.0 FramedImage.qml
+

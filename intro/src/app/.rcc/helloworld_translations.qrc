@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/i18n">
+    <file alias="helloworld_xx.qm">/home/alvin/Documents/qt6-cmake-tutorial/intro/src/app/helloworld_xx.qm</file>
+    <file alias="helloworld_fr.qm">/home/alvin/Documents/qt6-cmake-tutorial/intro/src/app/helloworld_fr.qm</file>
+  </qresource>
+</RCC>
+

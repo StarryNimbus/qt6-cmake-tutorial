@@ -1,0 +1,14 @@
+-rootPath
+/home/alvin/Documents/qt6-cmake-tutorial/qmlApp
+-cmake-output
+-output-file
+/home/alvin/Documents/qt6-cmake-tutorial/qmlApp/.qt_plugins/Qt6_QmlPlugins_Imports_myapp.cmake
+-importPath
+/home/alvin/Documents/qt6-cmake-tutorial/qmlApp/hello
+-importPath
+/home/alvin/Documents/qt6-cmake-tutorial/qmlApp
+-importPath
+/home/alvin/Qt/6.6.1/gcc_64/./qml
+-qrcFiles
+/home/alvin/Documents/qt6-cmake-tutorial/qmlApp/.rcc/qmake_hello.qrc
+/home/alvin/Documents/qt6-cmake-tutorial/qmlApp/.rcc/myapp_raw_qml_0.qrc

@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/hello/">
+    <file alias="main.qml">/home/alvin/Documents/qt6-cmake-tutorial/qmlApp/main.qml</file>
+    <file alias="FramedImage.qml">/home/alvin/Documents/qt6-cmake-tutorial/qmlApp/FramedImage.qml</file>
+    <file alias="img/world.png">/home/alvin/Documents/qt6-cmake-tutorial/qmlApp/img/world.png</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,15 @@
+/home/alvin/Documents/qt6-cmake-tutorial/qmlApp/CMakeFiles/myapp.dir
+/home/alvin/Documents/qt6-cmake-tutorial/qmlApp/CMakeFiles/myapp_automoc_json_extraction.dir
+/home/alvin/Documents/qt6-cmake-tutorial/qmlApp/CMakeFiles/myapp_qmltyperegistration.dir
+/home/alvin/Documents/qt6-cmake-tutorial/qmlApp/CMakeFiles/all_qmltyperegistrations.dir
+/home/alvin/Documents/qt6-cmake-tutorial/qmlApp/CMakeFiles/myapp_qmllint.dir
+/home/alvin/Documents/qt6-cmake-tutorial/qmlApp/CMakeFiles/myapp_qmllint_json.dir
+/home/alvin/Documents/qt6-cmake-tutorial/qmlApp/CMakeFiles/myapp_qmllint_module.dir
+/home/alvin/Documents/qt6-cmake-tutorial/qmlApp/CMakeFiles/all_qmllint.dir
+/home/alvin/Documents/qt6-cmake-tutorial/qmlApp/CMakeFiles/all_qmllint_json.dir
+/home/alvin/Documents/qt6-cmake-tutorial/qmlApp/CMakeFiles/all_qmllint_module.dir
+/home/alvin/Documents/qt6-cmake-tutorial/qmlApp/CMakeFiles/myapp_tooling.dir
+/home/alvin/Documents/qt6-cmake-tutorial/qmlApp/CMakeFiles/myapp_qmlimportscan.dir
+/home/alvin/Documents/qt6-cmake-tutorial/qmlApp/CMakeFiles/edit_cache.dir
+/home/alvin/Documents/qt6-cmake-tutorial/qmlApp/CMakeFiles/rebuild_cache.dir
+/home/alvin/Documents/qt6-cmake-tutorial/qmlApp/CMakeFiles/myapp_autogen.dir
